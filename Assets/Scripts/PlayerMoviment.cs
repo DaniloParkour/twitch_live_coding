@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
 
-public class CharacterMoviment : MonoBehaviour
+public class PlayerMoviment : MonoBehaviour
 {
 
     public float Speed;
